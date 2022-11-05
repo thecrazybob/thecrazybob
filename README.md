@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Mohammed Sohail, a full stack web developer.
+I'm Mohammed Sohail, a full stack engineer.
 I thoughtfully design, expertly build and carefully maintain meaningful, results-driven websites and applications that are a pleasure to use. I mainly develop web applications in Laravel/PHP alongside Next.js, Livewire or Inertia.
 
-I am currently pursuing my CS degree at Bilkent University, Ankara and I work as a freelance web developer.
+I am currently pursuing my CS degree at University of London and I work as a freelance full stack engineer.
 
 <!--
 **thecrazybob/thecrazybob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
